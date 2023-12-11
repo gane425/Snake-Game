@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game OMG
 import pygame
 import random
 # initializing pygame
